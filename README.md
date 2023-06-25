@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi! I’m a Full Stack Developer student who is passionate about creating innovative and functional web applications. <br>- I’m currently in the last stage of my training, back end, where I’m learning how to design and manage databases, servers, and APIs. <br>- I’ve already completed the Front End stage where I acquired knowledge and skills in HTML, CSS, JavaScript, and React. <br>- I love learning new things and sharing my projects with the GitHub community
+&#9679; Hi! I’m a Full Stack Developer student who is passionate about creating innovative and functional web applications. <br>&#9679; I’m currently in the last stage of my training, back end, where I’m learning how to design and manage databases, servers, and APIs. <br>&#9679; I’ve already completed the Front End stage where I acquired knowledge and skills in HTML, CSS, JavaScript, and React. <br>&#9679; I love learning new things and sharing my projects with the GitHub community
 
 
 ## 🌐 Socials:
