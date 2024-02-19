@@ -2,7 +2,7 @@
 &#9679; ¡Hola! Soy Manuel Forneri, tengo 23 años y soy Desarrollador Full Stack MERN.
 
 &#9679; Estudié en Coderhouse, donde adquirí sólidos conocimientos en desarrollo web y programación.
-&#9679; Soy una persona apasionada y creativa, siempre buscando aprender y superarme día a día. 
+Soy una persona apasionada y creativa, siempre buscando aprender y superarme día a día. 
 
 &#9679; Si te interesa saber más sobre mí, puedes encontrarme en LinkedIn o enviarme un correo a manuelforneri@gmail.com.
 
