@@ -1,5 +1,16 @@
 # 💫 Sobre Mi:
-&#9679; ¡Hola! Mi nombre es Manuel Forneri Desarrollador Full Stack, egresado de Coderhouse.
+&#9679; ¡Hola! Soy Manuel Forneri, tengo 23 años y soy Desarrollador Full Stack MERN.
+
+Estudié en Coderhouse, donde adquirí sólidos conocimientos en desarrollo web y programación.
+Soy una persona apasionada y creativa, siempre buscando aprender y superarme día a día. 
+
+Si te interesa saber más sobre mí, puedes encontrarme en LinkedIn o enviarme un correo a manuelforneri@gmail.com.
+
+Hello! I’m Manuel Forneri, 23 years old, and a Full Stack MERN Developer.
+
+I studied at Coderhouse, where I gained solid knowledge in web development and programming. I’m a passionate and creative individual, always seeking to learn and improve every day.
+
+ If you’d like to know more about me, you can find me on LinkedIn or email me at manuelforneri@gmail.com.
 
 # 💻 Tecnologias:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
