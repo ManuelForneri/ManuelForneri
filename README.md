@@ -1,26 +1,74 @@
-# 💫 Sobre Mi:
-&#9679; ¡Hola! Soy Manuel Forneri, tengo 25 años y soy Desarrollador Full Stack MERN.
+<div align="center">
+  
+  # Hi there, I'm Manuel Forneri 👋
+  
+  ### 🚀 Full Stack Software Engineer | Node.js & TypeScript Specialist
 
-&#9679; Soy una persona apasionada y creativa, siempre buscando aprender y superarme día a día. 
+</div>
 
-&#9679; Si te interesa saber más sobre mí, puedes encontrarme en LinkedIn, ver mi portfolio o enviarme un correo a manuelforneri@gmail.com.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Microservices migration** and architectural design.
+- 🌱 I’m currently studying **Computer Science** at UNSADA.
+- 💡 I'm interested in **Clean Architecture**, **DDD**, and **Serverless Computing**.
+- 🤝 Open to collaborating on projects that require **high scalability** and rigorous **testing standards**.
 
-&#9679; Link al portfolio: https://manuelforneri.vercel.app/
+<div align="center">
+  
+  ---
+  
+  ### 🛠️ Tech Stack & Tools
+  
+  <p><b>Core & Backend</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express" />
+  </a>
+  <br><br>
 
-&#9679; Hello! I’m Manuel Forneri, 25 years old, and a Full Stack MERN Developer.
+  <p><b>Frontend</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
+  </a>
+  <br><br>
 
-&#9679;  I am a passionate and creative person, always looking to learn and improve myself day by day. 
+  <p><b>Databases</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+  </a>
+  <br><br>
 
-&#9679; If you’d like to know more about me, you can find me on LinkedIn or see my portfolio or email me at manuelforneri@gmail.com.
+  <p><b>DevOps, Cloud & Tools</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,jest,git,github,postman" />
+  </a>
 
-&#9679; Link to portfolio: https://manuelforneri.vercel.app/
+  ---
 
-# 💻 Tecnologias:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-# 📊 Estadisticas de GitHub :
-![](https://github-readme-stats.vercel.app/api?username=ManuelForneri&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManuelForneri&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelForneri&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ### 🧠 Engineering Mindset & Methodologies
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-blue?style=for-the-badge&logo=structure" />
+    <img src="https://img.shields.io/badge/Pattern-Microservices-blueviolet?style=for-the-badge&logo=server" />
+    <img src="https://img.shields.io/badge/Design-DDD-orange?style=for-the-badge&logo=design" />
+    <br>
+    <img src="https://img.shields.io/badge/Principles-SOLID-green?style=for-the-badge&logo=code" />
+    <img src="https://img.shields.io/badge/Workflow-CI%2FCD-red?style=for-the-badge&logo=githubactions" />
+    <img src="https://img.shields.io/badge/Testing-TDD-yellow?style=for-the-badge&logo=jest" />
+  </p>
 
-## 🏆 Trofeos de GitHub 
-![](https://github-profile-trophy.vercel.app/?username=ManuelForneri&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+  ---
+
+  ### 📬 Connect with me
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/manuelforneri/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://manuelforneri.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:manuelforneri@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
+  </div>
+
+</div>
