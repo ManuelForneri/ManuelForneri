@@ -32,7 +32,7 @@
 
   <p><b>Databases</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
   </a>
   <br><br>
 
